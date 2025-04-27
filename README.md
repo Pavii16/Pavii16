@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>Hi there! 👋  <br>I'm a passionate developer who loves building projects, learning new technologies, and solving problems.  <br>Currently exploring Web Development and Open Source projects!<br><br>- 🌱 Currently learning: React.js<br>- 💻 Tech Stack: HTML, CSS, JavaScript, Java,SQL<br>- 📫 How to reach me: pavithradharmalingam3@gmail.com<br><br><br>Thanks for visiting my profile! 🚀<br>
+## About Me<br><br>Hi there! 👋  <br>I'm a passionate developer who loves building projects, learning new technologies, and solving problems.  <br>Currently exploring Web Development and Open Source projects!<br><br>- 🌱 Currently learning: React.js<br>- 💻 Tech Stack: HTML, CSS, JavaScript, Java, SQL<br>- 📫 How to reach me: pavithradharmalingam3@gmail.com<br><br><br>Thanks for visiting my profile! 🚀<br>
 
 
 ## 🌐 Socials:
